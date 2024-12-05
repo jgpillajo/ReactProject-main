@@ -1,0 +1,15 @@
+dependencias
+npm install date-fns@2.29.3
+npm install @mui/x-date-pickers@latest @mui/material@latest date-fns@latest
+npm install @mui/material @emotion/react @emotion/styled @mui/x-date-pickers date-fns formik yup
+npm install formik yup react-datepicker
+npm i formik yup   
+npm install firebase@latest   
+npm install -g firebase-tools 
+npm i styled-components 
+npm i firebase
+npm i react-router-dom
+npm install react-dom @mui/material @emotion/react @emotion/styled @mui/icons-material
+npm i 
+///// si no funciona instalar este 
+npm install @emotion/react@^11.13.0 @emotion/styled@^11.13.0 @mui/icons-material@^5.16.6 @mui/material@^5.16.7 @mui/x-date-pickers@^7.13.0 date-fns@^2.30.0 firebase@^10.12.5 formik@^2.4.6 react@^18.3.1 react-datepicker@^7.3.0 react-dom@^18.3.1 react-router-dom@^6.26.0 styled-components@^6.1.12 yup@^1.4.0
